@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'This button will bring back all the memories?',
+        title: 'This button will bring back all the memories!',
         // text: "You won't be able to revert this!",
         icon: 'warning',
         showCancelButton: true,
